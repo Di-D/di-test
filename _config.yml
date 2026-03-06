@@ -24,7 +24,6 @@ exclude:
   - skills/
   - tests/
   - node_modules/
-  - output/
   - "*.py"
   - "*.j2"
   - "*.feature"
